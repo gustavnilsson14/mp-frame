@@ -1,0 +1,4 @@
+Sup?
+
+when running any npm command, do not do this in the dockerfiles, but use:
+docker-compose run <service> npm install
