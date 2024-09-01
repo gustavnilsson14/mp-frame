@@ -7,7 +7,7 @@ function App() {
   
   return (
     <>
-      IM ROOTasdczxxczcxz
+      hello env! :D
     </>
   )
 }
